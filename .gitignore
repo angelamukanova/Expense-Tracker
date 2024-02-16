@@ -1,0 +1,15 @@
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all files in any directory named temp
+temp/
+
+# Ignore a specific file
+config.json
+
+# Ignore files with certain prefixes
+debug_*
+
+*.vsdix
