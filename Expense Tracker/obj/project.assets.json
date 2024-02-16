@@ -8069,19 +8069,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj",
       "projectName": "Expense Tracker",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\Expense Tracker\\Expense Tracker\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\Expense-Tracker\\Expense Tracker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
