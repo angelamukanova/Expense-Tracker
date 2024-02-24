@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <None Include="..\.editorconfig" Link=".editorconfig" />
+    <None Include="wwwroot\logo.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -20,7 +21,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.0" />
-    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="24.1.45" />
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="24.2.3" />
+    <PackageReference Include="Syncfusion.Licensing" Version="24.2.3" />
   </ItemGroup>
 
 </Project>
